@@ -15,3 +15,7 @@
 // Disable Effects on Salmon Run [OctoSquiddy]
 @enabled
 0040FBE8 C0035FD6
+
+// MoonJump [OctoSquiddy]
+@enabled
+023E0DE4 0A2D2D3D
