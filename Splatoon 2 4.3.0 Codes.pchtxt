@@ -1,0 +1,21 @@
+# Splatoon 2 4.3.0
+@little-endian
+@nsobid-401CAF85764DBBD081DBF293D9F2ADCB
+
+@flag offset_shift 0x100
+
+-----------------------------------------
+- Splatoon 2 4.3.0 Codes by OctoSquiddy -
+-----------------------------------------
+
+//Golden Screen [OctoSquiddy]
+@disabled
+00100744 C0035FD6
+
+// Disable Effects on Salmon Run [OctoSquiddy]
+@disabled
+00352614 C0035FD6
+
+//Hight Jump [OctoSquiddy]
+@disabled
+0230F7CC CDCC4C3E
