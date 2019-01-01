@@ -20,6 +20,10 @@
 @enabled
 023E0E70 CDCC4C3E
 
+// No Knockback - Walk inside many stuff
+@enabled
+00FBFB98 C0035FD6
+
 // MoonJump [asasasa] [octosquiddy port]
 @enabled
 023E0DE4 0A2D2D3D
