@@ -23,3 +23,19 @@
 // MoonJump [asasasa] [octosquiddy port]
 @enabled
 023E0DE4 0A2D2D3D
+
+// Big Inkling [OctoSquiddy]
+@disabled
+023E1074 6666F63F
+
+// Invisible [OctoSquiddy]
+@disabled
+023E1074 6666F63A
+
+// Small Inkling/Squid [OctoSquiddy]
+@disabled
+023E1074 6666063F
+
+// Inf Loading Screen [why exactly didn i done this?] [OctoSquiddy]
+@disabled
+00135794 C0035FD6
